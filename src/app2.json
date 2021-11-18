@@ -1,0 +1,90 @@
+{
+	"Playlists": {
+		"0": {
+			"name": "playlist1",
+			"size": 0,
+			"songs": [{
+				"id": "0",
+				"name": "nameSong1",
+				"artist": "artistSong1",
+				"album": "albumSong1",
+				"duration": 4.2
+			}, {
+				"id": "1",
+				"name": "nameSong2",
+				"artist": "artistSong2",
+				"album": "albumSong2",
+				"duration": 4.2
+			}, {
+				"id": "2",
+				"name": "nameSong3",
+				"artist": "artistSong3",
+				"album": "albumSong3",
+				"duration": 3.1
+			}, {
+				"id": "1",
+				"name": "nameSong2",
+				"artist": "artistSong2",
+				"album": "albumSong2",
+				"duration": 4.2
+			}, {
+				"id": "1",
+				"name": "nameSong2",
+				"artist": "artistSong2",
+				"album": "albumSong2",
+				"duration": 4.2
+			}]
+		},
+		"1": {
+			"name": "playlist2",
+			"size": 0,
+			"songs": [{
+				"id": "0",
+				"name": "nameSong1",
+				"artist": "artistSong1",
+				"album": "albumSong1",
+				"duration": 4.2
+			}]
+		}
+	},
+	"Songs": {
+		"0": {
+			"id": "0",
+			"name": "nameSong1",
+			"artist": "artistSong1",
+			"album": "albumSong1",
+			"duration": 4.2
+		},
+		"1": {
+			"id": "1",
+			"name": "nameSong2",
+			"artist": "artistSong2",
+			"album": "albumSong2",
+			"duration": 4.2
+		},
+		"2": {
+			"id": "2",
+			"name": "nameSong3",
+			"artist": "artistSong3",
+			"album": "albumSong3",
+			"duration": 3.1
+		}
+	},
+	"Users": {
+		"0": {
+			"name": "Pablo",
+			"password": "1234",
+			"edad": 39
+		},
+		"1": {
+			"name": "Romina",
+			"password": "12345",
+			"edad": 30
+		},
+		"2": {
+			"name": "Pedro",
+			"password": "12345",
+			"edad": 30
+		}
+	}
+}
